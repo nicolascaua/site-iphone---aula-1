@@ -1,0 +1,28 @@
+.imagem{
+    float: right;
+}
+.cor-titulo{
+    color: black;
+    font-size: xx-large;
+}
+.cor-p1{
+    color: brown;
+    font-size: x-large;
+}
+.p2{
+    font-size: x-large;
+}
+.p3{
+    font-size: x-large;
+}
+.compre-aqui{
+font-size: 25px;
+width: 300px;
+height: 30px;
+border: 2px solid black;
+color: black;
+background-color:aquamarine;
+text-align: center;
+border-radius: 40px;
+translate: 400px;
+}
